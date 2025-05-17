@@ -21,11 +21,14 @@ A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**,
 ## 📁 Folder Structure
 
 project-folder/
-│
-├── index.html # Main HTML file
-├── styles.css # CSS file with all styles
-├── script.js # JavaScript logic for the app
-└── README.md # Project documentation
+
+  ├── index.html # Main HTML file
+
+  ├── styles.css # CSS file with all styles
+
+  ├── script.js # JavaScript logic for the app
+
+  └── README.md # Project documentation
 
 
 
