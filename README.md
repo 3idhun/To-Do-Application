@@ -16,11 +16,12 @@ A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**,
 
 ## 📸 Screenshot
 
-![Todo App Screenshot](screenshot.png) <!-- You can change the file name if needed -->
+![Screenshot](https://github.com/user-attachments/assets/f6e9ed27-6c8f-4547-91fd-4f6295f0e6f8)
+
 
 ## 📁 Folder Structure
 
-project-folder/
+To-Do-Application/
 
   ├── index.html # Main HTML file
 
