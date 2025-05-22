@@ -7,7 +7,7 @@ A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**,
 - Delete tasks
 - Save tasks to localStorage for persistence
 
-## 🚀 Features
+## 🚀 Features 
 
 - ✅ Add and manage your tasks easily
 - 💾 Save your todos locally in the browser using localStorage
