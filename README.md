@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**, and **JavaScript**. It allows users to:
+A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**, and **JavaScript**. It allows users to: 
 
 - Add new tasks
 - Mark tasks as complete
