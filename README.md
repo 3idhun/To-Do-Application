@@ -13,7 +13,7 @@ A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**,
 - 💾 Save your todos locally in the browser using localStorage
 - 🧹 Clear and minimal UI with responsive design
 - 🎨 Styled using Bootstrap and custom CSS 
-
+           
 ## 📸 Screenshot
 
 ![Screenshot](https://github.com/user-attachments/assets/f6e9ed27-6c8f-4547-91fd-4f6295f0e6f8)
