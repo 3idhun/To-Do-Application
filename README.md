@@ -4,7 +4,7 @@ A simple and responsive Todo App built using **HTML**, **CSS**, **Bootstrap 4**,
 
 - Add new tasks
 - Mark tasks as complete
-- Delete tasks
+- Delete tasks 
 - Save tasks to localStorage for persistence
 
 ## 🚀 Features 
